@@ -1,0 +1,11 @@
+I am a Senior Lecturer in Psychology and Hearing in the ("https://www.ntu.ac.uk/study-and-courses/academic-schools/social-sciences/psychology")[Department of Psychology at Nottingham Trent University]. 
+
+I use electroencephalography (EEG) to study how the brain processes and learns the structure of continuous sounds like speech and music.  I use novel analytical techniques based on machine learning to quantify the neural encoding of acoustic features when people listen to continuous naturalistic sounds. In my research, I use these techniques to identify what features are tracked by the EEG, quantify how they are tracked over time, and examine how this tracking changes as we learn the sound's structure.
+        
+Previously, I was an ELSC-SWC postdoctoral fellow at Hebrew University in Jerusalem, where I was affiliated with <a href="https://elsc.huji.ac.il/faculty-staff/merav-ahissar">Merav Ahissar's lab for Human Perceptual and Cognitive Learning</a> and collaborating with <a href="https://www.lim.bio/">Athena Akrami's Learning, Inference, & Memory Lab</a> at UCL. Earlier, I was a postdoctoral researcher in the <a href="https://www.urmc.rochester.edu/labs/lalor.aspx">Lalor Lab for Computational Cognitive Neurophysiology</a>.</p>
+
+I received a PhD from the <a href="https://dms.hms.harvard.edu/shbt/">Harvard Program in Speech and Hearing Bioscience and Technology</a> through the <a href="https://hst.mit.edu/">Harvard-MIT Program in Health Sciences and Technology</a>. I did my doctoral work in <a href="https://research.meei.harvard.edu/neuralcoding/index.html">the EPL Neural Coding Group</a> with Bertrand Delgutte at the Massachusetts Eye and Ear Infirmary, where I studied how the inferior colliculus in the midbrain encodes time-varying interaural time differences (ITD), one of the cues we use to localize sounds.</p>
+
+I also enjoy writing and arranging music. Some of my earlier compositions as an undergraduate at the University of Rochester and as a graduate student at MIT are listed in the Music page.</p>
+
+You can contact me at <span class="impact">nathaniel (dot) zuk (at) ntu.ac.uk</span></p>
