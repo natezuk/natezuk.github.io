@@ -1,0 +1,51 @@
+## Neural tracking of rhythms in speech and music
+
+<p>Both speech and music have rhythmic structure, and one way of quantifying this is by looking at fluctuations in the amplitude of these sounds (also known as the envelope). Speech envelopes fluctuate with syllables and phrases, and music envelopes fluctuate with rhythmic events. But if this information in speech and music can be represented simply by these amplitude fluctuations, does a common neural mechanism track them both? We recorded EEG as subjects passively listened to speech, rock music, classical music, and the vocals isolated from the songs. We found that 1) both speech and music envelopes are tracked at syllable or rhythm rates, but speech is tracked better, and 2) low frequency speech tracking (corresponding to phrases) produced unique neural activity that was not present for music tracking. Additionally, we found that envelope tracking of the rock songs correlated mainly with the drums and seemed to track faster events (around 5 Hz) than the musical beat. Overall, faster fluctuations (syllables, musical rhythm) may be tracked by a common neural mechanism, but low-frequency tracking (phrases) seems to be unique to speech.</p>
+
+<p><i>Related publications</i>:</p>
+
+<p><span class="impact">Zuk NJ</span>, Murphy JW, Reilly RB, Lalor EC (2021). Envelope reconstruction of speech and music highlights stronger tracking of speech at low frequencies. <i>PLOS Comput Biol</i>, 17(9):e1009358. doi: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009358">10.1371/journal.pcbi.1009358</a></p>
+
+<p>The gitlab repository for this project can be found <a href="https://gitlab.com/eegtracking/speech_music_envelope_tracking">here</a>.</p>
+
+<p><i>Earlier work</i>:</p>
+
+<p>The method I used for this project followed earlier work I did with a different, but related, analysis. In earlier work, I filtered the EEG into delta, theta, alpha, and beta bands, and then assessed how well the amplitude and phase of each frequency band tracks the envelope of the stimuli. I ended up abandoning that analysis though and essentially starting over because: 1) I discovered that the code I used to extract the envelope was getting it at a sampling rate that was slightly off :-(, so delta frequency (phrase rates) was mostly correct but I was probably missing theta tracking (syllable rates), 2) regularization affects higher frequencies more than lower frequencies, so I could have been biasing my results to low-frequency tracking, and 3) comparing neural tracking between frequencies is really messy!</p>
+
+<p>The latest version of this earlier work was presented at the <i>Attention to Sound</i> conference in Newport Pagnell, UK in November, 2018. You can find more information on the poster from that session, which can be found <a href="Zuk_AtS_poster3.pdf">here</a>. If you would like to cite this earlier work, please use the following reference:</p>
+
+<p><span class="impact">Zuk N</span>, Murphy J, Lalor E. Nonlinear EEG decomposition reveals distinct neural processes that track speech and music. Poster session at: <i>Attention to Sound</i> 2018 Nov 14-15; Newport Pagnell, UK.</p>
+
+## Neural specializations for speech and music
+
+<p>We can identify many different sounds in the environment, but it is unquestionable that speech and music are uniquely human sounds.  Other work using fMRI had shown that different regions of auditory cortex will respond specifically to speech and music sounds.  We hypothesized that, if the brain is especially responsive to speech and music, these specializations may also be apparent in EEG recordings.  We studied this by recording EEG continuously as people listened to many different natural sounds.  We found that the brain responds particularly strongly and temporally consistently to speech and music compared to other natural sounds.</p>
+
+<p><i>Related publications</i>:</p>
+
+<p><span class="impact">Zuk NJ</span>, Teoh ES, Lalor EC (2020). EEG-based classification of natural sounds reveals specialized responses to speech and music. <i>NeuroImage</i>, 210:116558. doi: <a href="https://doi.org/10.1016/j.neuroimage.2020.116558">10.1016/j.neuroimage.2020.116558</a></p>
+
+<p>The github repository for this project can be found <a href="https://github.com/natezuk/Speech_Music_Classify">here</a>.</p>
+
+<p>The data from Experiment 2 of the project can be found on OSF <a href="https://osf.io/hbfk8/">here</a>.</p>
+
+## Quantifying event predictability using EEG</div>
+    
+<p>A common technique in EEG research is to present a stimulus many times in order to quantify an average evoked response to the event, also known as an event-related potential (ERP).  However, current ERP analysis techniques cannot quantify to what extent the average represents the response following each event.  Additionally, different events may evoke similar responses, suggesting that a single ERP is appropriate to model both.  Inspired by linear-nonlinear models used for modeling neural spikes, I developed a linear-nonlinear Bernoulli (LNB) model that computes an ERP which can be used to quantify the probability of events in left out data.  This can also be used to quantify confusion between event types, if an LNB model trained on one event is able to predict the timing of another event.</p>
+
+<p>This modeling technique was used to examine the encoding of phonemes in EEG during listening to continuous speech, to quantify confusion between classes of phonemes, and to examine the time course of phoneme tracking.  The conference paper can be found here:</p>
+
+<p><span class="impact">Zuk NJ</span>, Di Liberto GL, Lalor EC (2019). Linear-nonlinear Bernoulli modeling for quantifying temporal coding of phonemes in continuous speech. <i>Conference on Cognitive Computational Neuroscience</i>, 13-16 September, Berlin, Germany. doi: <a href="https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1192">10.32470/CCN.2019.1192-0</a></p>
+
+<p>The github repository for this model can be found <a href="https://github.com/natezuk/LNB_model">here</a>.</p>
+
+## What makes a musical beat?
+
+<p>When we listen to rhythmic music, we sometimes "feel the beat" and spontaneously start bobbing our head or tapping our foot along with the music.  How do we determine when beats occur in music? Can our preference for certain tempos or certain instruments be a result of inherent auditory processing?</p>
+
+<p>To address these questions, we simulated sub-cortical neural activity using biomimetic models of the auditory nerve, brainstem, and midbrain processing relevant for processing musical events.  We found that sub-cortical processing induces tempo and audio-frequency biases in beat perception that have been observed elsewhere in the music perception literature.  However, for real music, sub-cortical activity synchronizes most strongly with a frequency at a multiple of what we consider to be the beat, requiring a higher-level, learned process to determine the actual beat frequency of the music.</p>
+
+<p><i>Related publications</i>:</p>
+
+<p><span class="impact">Zuk NJ</span>, Carney LH, Lalor EC (2018) Preferred tempo and low-audio-frequency bias emerge from simulated sub-cortical processing of sounds with a musical beat. <i>Front Neurosci</i> 12:349. doi: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00349/full">10.3389/fnins.2018.00349</a></p>
+
+<p>The github repository for this project can be found <a href="https://github.com/natezuk/SubCorticalBeats-model">here</a>.</p>

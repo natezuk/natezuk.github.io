@@ -1,0 +1,138 @@
+## Research
+
+**2023 - present**  
+Senior Lecturer in Psychology and Hearing  
+Department of Psychology  
+Nottingham Trent University, Nottingham, UK  
+Focus: EEG tracking of sound, auditory learning through active experience  
+
+**2021 - 2023**  
+ELSC-SWC Postdoctoral Fellow  
+Hebrew University, Jerusalem, Israel  
+Edmond & Lily Safra Center for Brain Sciences  
+Ahissar Lab for Human Perceptual and Cognitive Learning  
+Focus: EEG encoding of auditory perceptual biases in controls and autistics  
+                
+**2018**
+Neuromorphic Engineering Workshop, Telluride, CO<br>
+Focus: Continuous neural decoding of stimuli from time-locked responses, examining the neural encoding of musical tension</p>
+
+**2018 - 2021**
+Research Fellow<br>
+Trinity College Dublin, Dublin, Ireland<br>
+Department of Electronic and Electrical Engineering<br>
+Lalor Lab for Computational Cognitive Neurophysiology<br>
+Focus: Neural decoding of rhythm in speech and music using electroencephalography</p>
+
+**2016 - 2018**
+Postdoctoral Associate<br>
+University of Rochester, Rochester, NY<br>
+Department of Biomedical Engineering<br>
+Lalor Lab for Computational Cognitive Neurophysiology</p>
+
+## Education
+
+**2011 - 2016**
+Harvard - Massachusetts Institute of Technology, Cambridge MA
+PhD, Program in Speech and Hearing Bioscience and Technology<br>
+Advisor: Bertrand Delgutte<br>
+Thesis: <a href="https://dspace.mit.edu/handle/1721.1/107286">&ldquo;Neural coding of time-varying interaural time differences and its relation to perception&rdquo;</a></p>
+
+**2006 - 2011**</b><br>**
+University of Rochester, Rochester NY<br>
+BS, Biomedical Engineering<br>
+Minor, Mathematics<br>
+Take Five Scholarship, &ldquo;Music: Science and Composition&rdquo;</p>
+
+## Publications
+
+<p>Ahmed F, Nidiffer AR, O'Sullivan AE, <span class="impact">Zuk NJ</span>, Lalor EC (2023). The integration of continuous audio and visual speech in a cocktail-party environment depends on attention. <i>NeuroImage</i>, 274:120143. doi: <a href="https://doi.org/10.1016/j.neuroimage.2023.120143">10.1016/j.neuroimage.2023.120143</a></p>
+
+<p>Broderick MP, <span class="impact">Zuk NJ</span>, Anderson AJ, Lalor EC (2022). More than words: neurophysiological correlates of semantic dissimilarity depend on comprehension of the speech narrative. <i>Eur J Neurosci</i>, doi: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15805">10.1111/ejn.15805</a></p>
+
+<p><span class="impact">Zuk NJ</span>, Murphy JW, Reilly RB, Lalor EC (2021). Envelope reconstruction of speech and music highlights stronger tracking of speech at low frequencies. <i>PLOS Comput Biol</i>, 17(9):e1009358. doi: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009358">10.1371/journal.pcbi.1009358</a></p>
+
+<p>Crosse MJ, <span class="impact">Zuk NJ</span>, Di Liberto GM, Nidiffer AR, Molholm S, Lalor EC (2021). Linear modeling of neurophysiological responses to naturalistic stimuli: methodological considerations for applied research. <i>Front Neurosci</i>, 15:705621. doi: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.705621/full">10.3389/fnins.2021.705621</a></p>
+
+<p><span class="impact">Zuk NJ</span>, Teoh ES, Lalor EC (2020). EEG-based classification of natural sounds reveals specialized responses to speech and music. <i>NeuroImage</i>, 210:116558. doi: <a href="https://doi.org/10.1016/j.neuroimage.2020.116558">10.1016/j.neuroimage.2020.116558</a></p>
+
+<p><span class="impact">Zuk NJ</span>, Delgutte B (2019). Neural coding and perception of auditory motion direction based on interaural time differences. <i>J Neurophysiol</i>, 122(4):1821-1842. doi: <a href="https://www.physiology.org/doi/abs/10.1152/jn.00081.2019">10.1152/jn.00081.2019</a></p>
+
+<p><span class="impact">Zuk NJ</span>, Carney LH, Lalor EC (2018). Preferred tempo and low-audio-frequency bias emerge from simulated sub-cortical processing of sounds with a musical beat. <i>Front Neurosci</i> 12:349. doi: <a href="https://www.frontiersin.org/articles/10.3389/fnins.2018.00349/full">10.3389/fnins.2018.00349</a></p>
+
+<p><span class="impact">Zuk N</span>, Delgutte B (2017). Neural coding of time-varying interaural time differences and time-varying amplitude in the inferior colliculus. <i>J Neurophysiol</i>, 118(1):544-563. doi: <a href="http://jn.physiology.org/content/118/1/544">10.1152/jn.00797.2016</a></p>
+
+## Conference proceedings
+        
+<p><span class="impact">Zuk NJ</span>, Weiss Y, Akrami A, Ahissar M (2023). Response to external feedback is reduced in participants with ASD. <i>Conference on Cognitive Computational Neuroscience</i>, 24-27 August, Oxford, United Kingdom. doi: <a href="https://2023.ccneuro.org/view_paper.php?PaperNum=1226">10.32470/CCN.2023.1226-0</a></p>
+
+<p><span class="impact">Zuk NJ</span>, Di Liberto GL, Lalor EC (2019). Linear-nonlinear Bernoulli modeling for quantifying temporal coding of phonemes in continuous speech. <i>Conference on Cognitive Computational Neuroscience</i>, 13-16 September, Berlin, Germany. doi: <a href="https://ccneuro.org/2019/Papers/ViewPapers.asp?PaperNum=1192">10.32470/CCN.2019.1192-0</a></p>
+
+## Presentations
+
+<p><span class="impact">Zuk N</span>, Weiss Y, Akrami A, Ahissar, M. Response to internal and external feedback is reduced in participants with ASD. Poster session at: <i>Conference on Cognitive Computational Neuroscience</i>, 2023 August 24-27, Oxford, United Kingdom.</p>
+
+<p><span class="impact">Zuk N</span>, Bianco R, Milne A, Chait M. Predictable pitch improves listeners' ability to track patterns in other acoustic features within rapidly unfolding sound sequences. Poster session and poster blitz at: <i>Interdisciplinary Advances in Statistical Learning</i>, 2022 June 1-3, Donostia/San Sebastian, Spain.</p>
+
+<p><span class="impact">Zuk N</span>, Granot S, Ahissar M. Joint decorrelation of EEG to isolate neural responses in controls and subjects with autism during passive listening and active auditory engagement. Poster session at: <i>The 9th Israeli Conference on Cognition Research</i>, 2022 Feb 16-17, Online.</p>
+
+<p><span class="impact">Zuk N</span>, Murphy J, Reilly R, Lalor E. Frequency-constrained envelope reconstruction of speech and music with electroencephalography highlights unique tracking of speech at low frequencies. <i>The Association for Research in Otolaryngology Midwinter Meeting</i>, 2021 Feb 21, Online. Conference presentation.</p>
+
+<p><span class="impact">Zuk N</span>, Di Liberto GL, Lalor EC. Linear-nonlinear Bernoulli modeling for quantifying temporal coding of phonemes in continuous speech. Poster session at: <i>Auditory EEG Signal Processing</i>, 2019 September 16-18; Leuven, Belgium.</p>
+
+<p><span class="impact">Zuk N</span>, Teoh E, Lalor E. Specialized high-level processing of speech and music sounds revealed with EEG. Poster session at: <i>Society for Music Perception and Cognition Conference</i> 2019 Aug 5-7; New York City, NY, USA.</p>
+
+<p><span class="impact">Zuk N</span>, Teoh E, Lalor E. Specialized high-level processing of speech and music sounds revealed with EEG. Poster session at: <i>The Association for Research in Otolaryngology Midwinter Meeting</i> 2019 Feb 9-13; Baltimore, MD, USA.</p>
+
+<p><span class="impact">Zuk N</span>, Murphy J, Lalor E. Nonlinear EEG decomposition reveals distinct neural processes that track speech and music. Poster session at: <i>Attention to Sound</i> 2018 Nov 14-15; Newport Pagnell, UK.</p>
+
+<p><span class="impact">Zuk N</span>, Murphy J, Lalor E. Distinct temporal processing schemes for speech and music. Poster session at: <i>Society for Neuroscience Meeting</i> 2017 Nov 11-15; Washington, DC, USA.</p>
+
+<p><span class="impact">Zuk N</span>, Lalor E. Assessing musical beat perception using simulated auditory nerve and midbrain activity. Poster session at: <i>Advances and Perspectives in Auditory Neuroscience</i> 2017 Nov 10; Washington, DC, USA.</p>
+
+<p><span class="impact">Zuk N</span>, Murphy J, Lalor E. Distinct temporal processing schemes for speech and music. Poster session at: <i>International Conference on Auditory Cortex</i> 2017 Sept 10-15; Banff, Alberta, Canada.</p>
+
+<p><span class="impact">Zuk N</span>. Assessing musical beat perception based on simulated low-level neural activity. <i>New England Sequencing and Timing</i>, 2017 March 25; Storrs, CT, USA. Conference presentation.</p>
+
+<p><span class="impact">Zuk N</span>. Neural coding of time-varying interaural differences (ITD) in the inferior colliculus: relation to human performance in motion direction identification and binaural gap detection. <i>The Association for Research in Otolaryngology Midwinter Meeting</i>, 2017 Feb 11-15, Baltimore, MD, USA. Conference presentation.</p>
+
+<p><span class="impact">Zuk N</span>. Neural coding of motion direction and "binaural gaps" in the inferior colliculus. <i>Binaural Bash</i>, 2016 Nov 18; Boston, MA, USA. Conference presentation.</p>
+
+<p><span class="impact">Zuk N</span>. Rate and temporal coding of time-varying ITDs in the inferior colliculus. <i>Binaural Bash</i>, 2015 Oct 30; Boston, MA, USA. Conference presentation.</p>
+
+<p><span class="impact">Zuk N</span>, Delgutte B. Rate and temporal coding of dynamic ITD and amplitude modulation in the inferior colliculus may explain differences in psychophysical detection limits. Poster session at: <i>Society for Neuroscience Meeting</i> & <i>Advances and Perspectives in Auditory Neuroscience</i>, 2015 Oct 16-21; Chicago, IL, USA.</p>
+
+<p><span class="impact">Zuk N</span>, Delgutte B. Is the neural coding of dynamic interaural time differences related to the coding of amplitude modulation? Poster session at: <i>The Association for Research in Otolaryngology Midwinter Meeting</i>, 2014 Feb 22-26; San Diego, CA, USA.</p>
+
+<p><span class="impact">Zuk N</span>, Seidman SH, Carney LH, Schiavenato M. Pain Assessment of Neonates Using an Automated Signal Analysis Device. Poster session at: <i>Biomedical Engineering Society Annual Meeting</i>, 2009 Oct 7-10; Pittsburgh, PA, USA.</p>
+
+## Honors and Awards
+
+ELSC-SWC Postdoctoral Fellowship, 2021-2023
+ARO MidWinter Meeting Virtual Travel Award, 2021<br>
+Graduate Student Council Travel Grant at MIT, 2015<br>
+Amelia-Peabody Scholarship at the Massachusetts Eye and Ear, 2014<br>
+Association for Research in Otolaryngology Graduate Student / Postdoctoral Fellow Travel Award, 2014<br>
+Take Five Scholar at the University of Rochester, 2011<br>
+Alpha Eta Mu Beta (National Biomedical Engineering Honor Society), 2010<br>
+Tau Beta Pi (Engineering Honor Society), 2010<br>
+National Society of Collegiate Scholars, 2010<br>
+Australia's Student Mobility Scholarship, 2009<br>
+
+## Teaching
+                
+<p>
+&ldquo;Here Hear!: What's going on in the ear?&rdquo; &mdash; Lecturer, SPLASH!, MIT Educational Studies Program, 2015<br>
+&ldquo;Second Order Systems, bootcamp session&rdquo; &mdash; Lecturer, Program in Speech and Hearing Bioscience and Technology, Harvard, 2015<br>
+&ldquo;Acoustics&rdquo; &mdash; Teaching Assistant, Electrical Engineering and Computer Science Dept., MIT, 2013<br>
+&ldquo;General Chemistry&rdquo; &mdash; Teaching Assistant, Chemistry Dept., University of Rochester, 2007-2008<br>
+</p>
+
+## Community Service
+
+<p>
+Student-Postdoctoral Chapter Steering Committee, Association for Research in Otolaryngology, 2015-2018<br>
+Website Committee, Association for Research in Otolaryngology, 2014-2017<br>
+<a href="https://web.mit.edu/puzzle/www/2015/intro.html"> 2015 MIT Mystery Hunt</a>, puzzles: <a href="http://web.mit.edu/puzzle/www/2015/puzzle/a_short_transmission/">A Short Transmission</a>, <a href="http://web.mit.edu/puzzle/www/2015/puzzle/frequency_distribution_tank">Frequency Distribution Tank</a>, <a href="http://web.mit.edu/puzzle/www/2015/puzzle/be_a_star/">Be A Star!</a>, <a href="http://web.mit.edu/puzzle/www/2015/puzzle/encephalon/">Encephalon</a>, <a href="http://web.mit.edu/puzzle/www/2015/puzzle/follow_the_bees/">Follow the Bees!</a>, <a href="http://web.mit.edu/puzzle/www/2015/puzzle/time_amp_place/">Time & Place</a><br>
+<a href="https://youtu.be/FeSJ3gODauM">Sounds to See</a>, MIT + K12 initiative, 2013
+</p>
