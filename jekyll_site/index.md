@@ -1,3 +1,11 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+<center><img src="assets/NZpic_2020.png" width="247" height="300"></center>
+
 I am a Senior Lecturer in Psychology and Hearing in the ("https://www.ntu.ac.uk/study-and-courses/academic-schools/social-sciences/psychology")[Department of Psychology at Nottingham Trent University]. 
 
 I use electroencephalography (EEG) to study how the brain processes and learns the structure of continuous sounds like speech and music.  I use novel analytical techniques based on machine learning to quantify the neural encoding of acoustic features when people listen to continuous naturalistic sounds. In my research, I use these techniques to identify what features are tracked by the EEG, quantify how they are tracked over time, and examine how this tracking changes as we learn the sound's structure.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
 ## Research
 
 **2023 - present**  

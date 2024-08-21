@@ -1,3 +1,9 @@
+---
+layout: page
+title: projects
+permalink: /projects/
+---
+
 ## Neural tracking of rhythms in speech and music
 
 <p>Both speech and music have rhythmic structure, and one way of quantifying this is by looking at fluctuations in the amplitude of these sounds (also known as the envelope). Speech envelopes fluctuate with syllables and phrases, and music envelopes fluctuate with rhythmic events. But if this information in speech and music can be represented simply by these amplitude fluctuations, does a common neural mechanism track them both? We recorded EEG as subjects passively listened to speech, rock music, classical music, and the vocals isolated from the songs. We found that 1) both speech and music envelopes are tracked at syllable or rhythm rates, but speech is tracked better, and 2) low frequency speech tracking (corresponding to phrases) produced unique neural activity that was not present for music tracking. Additionally, we found that envelope tracking of the rock songs correlated mainly with the drums and seemed to track faster events (around 5 Hz) than the musical beat. Overall, faster fluctuations (syllables, musical rhythm) may be tracked by a common neural mechanism, but low-frequency tracking (phrases) seems to be unique to speech.</p>
